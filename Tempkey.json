@@ -1,5 +1,12 @@
 [
   {
+    "id": "4bedc6f8b139a247",
+    "username": "ixzan.benny@gmail.com",
+    "password": "4bedc6f8b139a247",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "65726d938ce3970e",
     "username": "kuda403",
     "password": "kuda403",
