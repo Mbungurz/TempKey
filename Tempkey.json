@@ -1,5 +1,11 @@
 [
-    
+    {
+    "id": "6d88e5f64c1c58ce",
+    "username": "fathirx",
+    "password": "fathirx",
+    "expiresAt": "2029-12-31",
+    "allowOffline": true
+  },
     {
     "id": "4c9a83621a84536e",
     "username": "upri",
