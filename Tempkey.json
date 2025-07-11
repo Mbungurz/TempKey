@@ -1,6 +1,14 @@
 [
     
     {
+    "id": "1cbf92126bcb9908",
+    "username": "renda",
+    "password": "renda",
+    "expiresAt": "2029-12-31",
+    "allowOffline": true
+  },
+    
+    {
     "id": "38d98213da023a0f",
     "username": "kansa",
     "password": "kansa",
