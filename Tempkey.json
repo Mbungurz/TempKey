@@ -1,4 +1,11 @@
 [
+    {
+    "id": "d12712a8a0b3a266",
+    "username": "fred",
+    "password": "fred",
+    "expiresAt": "2029-12-31",
+    "allowOffline": true
+  },
 
     {
     "id": "a1ab7178aad6250e",
