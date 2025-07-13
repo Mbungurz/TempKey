@@ -102,11 +102,4 @@
     "allowOffline": true
   },
     
-    {
-    "id": "dbb3fd4bad5ae59e",
-    "username": "tri",
-    "password": "tri",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
 ]
