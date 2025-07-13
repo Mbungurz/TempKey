@@ -1,5 +1,13 @@
 [
+
     
+    {
+    "id": "dbb3fd4bad5ae59e",
+    "username": "tri",
+    "password": "tri",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
     {
     "id": "be614087d3ae838c",
     "username": "imam",
