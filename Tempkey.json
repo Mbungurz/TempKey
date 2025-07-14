@@ -1,5 +1,12 @@
 [
 
+  {
+    "id": "340d6f2339c98423",
+    "username": "hafid",
+    "password": "hafid",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
     {
     "id": "cd1e3004ef6fd388",
     "username": "yuas",
