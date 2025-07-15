@@ -1,4 +1,11 @@
 [
+    {
+    "id": "fee97df58135ef78",
+    "username": "ardi",
+    "password": "ardi",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
 {
     "id": "d03aae9a44939f62",
     "username": "liga",
