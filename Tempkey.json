@@ -1,5 +1,11 @@
 [
-
+{
+    "id": "d03aae9a44939f62",
+    "username": "liga",
+    "password": "liga",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
   {
     "id": "340d6f2339c98423",
     "username": "hafid",
