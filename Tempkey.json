@@ -1,5 +1,12 @@
 [
-    
+
+    {
+    "id": "cf0efdeeeae31b3f",
+    "username": "azril",
+    "password": "azril",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
     {
     "id": "8d985ab5e106be9d",
     "username": "pipit",
