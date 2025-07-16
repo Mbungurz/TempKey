@@ -1,4 +1,12 @@
 [
+    
+    {
+    "id": "8d985ab5e106be9d",
+    "username": "pipit",
+    "password": "pipit",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
     {
     "id": "eb7322c642e06855",
     "username": "gusta",
