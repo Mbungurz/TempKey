@@ -1,5 +1,11 @@
 [
-  
+  {
+    "id": "525ba9b31610b99c",
+    "username": "rendali",
+    "password": "rendali",
+    "expiresAt": "2046-12-31",
+    "allowOffline": true
+  },
   {
     "id": "193e2100e746dfe5",
     "username": "wawan",
