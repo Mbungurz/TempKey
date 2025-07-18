@@ -1,5 +1,13 @@
 [
+
   
+  {
+    "id": "9b68141a311ef90c",
+    "username": "joma",
+    "password": "joma",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },
   {
     "id": "df0e23541608e0eb",
     "username": "loly",
