@@ -1,6 +1,13 @@
 [
 
   {
+    "id": "fb229cbe4ed4cc06",
+    "username": "ibis",
+    "password": "ibis",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "432de2fb39a36a34",
     "username": "afik",
     "password": "afik",
