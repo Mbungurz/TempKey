@@ -1,5 +1,11 @@
 [
-
+{
+    "id": "611c7b6915aebf9e",
+    "username": "herman",
+    "password": "herman",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },
   {
     "id": "bc46e416e35b369c",
     "username": "hardi",
