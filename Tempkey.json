@@ -1,6 +1,13 @@
 [
    
    {
+    "id": "7b0b500a241672b2",
+    "username": "mas",
+    "password": "mas",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
+   {
     "id": "227b913b607c43ce",
     "username": "gusti",
     "password": "gusti",
