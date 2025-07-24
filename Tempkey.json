@@ -2,6 +2,13 @@
 
    
    {
+    "id": "b7ccfa7c83b8e164",
+    "username": "brew",
+    "password": "brew",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
+   {
     "id": "08a1dcde6accc8e4",
     "username": "ikhsan",
     "password": "ikhsan",
