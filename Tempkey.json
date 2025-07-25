@@ -1,6 +1,12 @@
 [
 
-   
+   {
+    "id": "7deece2eafadea6f",
+    "username": "jaya",
+    "password": "jaya",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
    {
     "id": "b7ccfa7c83b8e164",
     "username": "brew",
