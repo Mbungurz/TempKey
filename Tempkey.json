@@ -1,6 +1,13 @@
 [
 
 
+   {
+    "id": "20389ea09be3069e",
+    "username": "luna",
+    "password": "luna",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
     
    {
     "id": "007cb1b100ab0dcb",
