@@ -1,6 +1,12 @@
 [
 
-
+{
+    "id": "cbe7c0d7c0518ee8",
+    "username": "andi",
+    "password": "andi",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
    {
     "id": "b14367a7621c98a4",
     "username": "indra",
