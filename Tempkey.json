@@ -1,6 +1,13 @@
 [
 
 {
+    "id": "9e269f608a85240f",
+    "username": "astro",
+    "password": "astro",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
+{
     "id": "cbe7c0d7c0518ee8",
     "username": "andi",
     "password": "andi",
