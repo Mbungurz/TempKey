@@ -1,6 +1,13 @@
 [
 
 {
+    "id": "f39bb79a0c4a0d13",
+    "username": "pam",
+    "password": "pam",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
+{
     "id": "9e269f608a85240f",
     "username": "astro",
     "password": "astro",
