@@ -1,5 +1,12 @@
 [
-                
+                       
+{
+    "id": "be17a4431ead2b18",
+    "username": "tara",
+    "password": "tara",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },          
 {
     "id": "dcef93c1335e7e03",
     "username": "mufri",
