@@ -1,5 +1,12 @@
 [
-        
+                
+{
+    "id": "dcef93c1335e7e03",
+    "username": "mufri",
+    "password": "mufri",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  }, 
 {
     "id": "601b5d8f7548d6c5",
     "username": "andu",
