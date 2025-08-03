@@ -1,5 +1,12 @@
 [
-                                                                        
+                                                                                    
+{
+    "id": "f7132431fe3ddae3",
+    "username": "bim",
+    "password": "bim",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                            
 {
     "id": "f739abb05d6e3a4f",
     "username": "idhil",
