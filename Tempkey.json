@@ -1,5 +1,12 @@
 [
-                                                                 
+                                                                       
+{
+    "id": "0aded7f90b40681b",
+    "username": "hamdan",
+    "password": "hamdan",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                           
 {
     "id": "fff5e86efb1b6cf4",
     "username": "muh",
