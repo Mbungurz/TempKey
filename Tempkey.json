@@ -1,5 +1,12 @@
 [
-                                 
+                                                      
+{
+    "id": "65be6c392c749d83",
+    "username": "rico",
+    "password": "rico",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                   
 {
     "id": "95d01c78b94fd813",
     "username": "andi",
