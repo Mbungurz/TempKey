@@ -1,5 +1,12 @@
 [
-                                                                                    
+                                                                                                   
+{
+    "id": "d31ca952081433ff",
+    "username": "fendi",
+    "password": "fendi",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                     
 {
     "id": "f7132431fe3ddae3",
     "username": "bim",
