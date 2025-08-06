@@ -1,5 +1,12 @@
 [
-                                                                                                                         
+                                                                                                                                 
+{
+    "id": "50e295e8e8d844da",
+    "username": "dupu",
+    "password": "dupu",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                 
 {
     "id": "469ac3add2f5dc59",
     "username": "anfo",
