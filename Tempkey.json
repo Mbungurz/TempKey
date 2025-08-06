@@ -1,5 +1,12 @@
 [
-                                                                                                         
+                                                                                                                         
+{
+    "id": "469ac3add2f5dc59",
+    "username": "anfo",
+    "password": "anfo",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                         
 {
     "id": "a5e625e7b4b223f9",
     "username": "naja",
