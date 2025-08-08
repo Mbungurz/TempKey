@@ -1,4 +1,13 @@
-[                                                                                                                 
+[                
+
+                                                                                                                     
+{
+    "id": "5d4a0ff8c65b8a6a",
+    "username": "pri",
+    "password": "pri",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },
 {
     "id": "50e295e8e8d844da",
     "username": "dupu",
