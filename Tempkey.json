@@ -1,5 +1,12 @@
 [                
-                                                                                                                                                                                                                 
+                                                                                                                                                                                                                   
+{
+    "id": "b4296d5173202078",
+    "username": "dul",
+    "password": "dul",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                               
 {
     "id": "7671660936694716",
     "username": "ibis",
