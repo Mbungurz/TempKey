@@ -1,5 +1,12 @@
 [                
-                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                      
+{
+    "id": "5ce10e251e5acdca",
+    "username": "ari",
+    "password": "ari",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                              
 {
     "id": "6b6b0c63aab6f7a9",
     "username": "rie",
