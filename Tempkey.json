@@ -1,6 +1,13 @@
 [                
                         
-                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                          
+{
+    "id": "811de0e2c9a84481",
+    "username": "timbul",
+    "password": "timbul",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                                 
 {
     "id": "c96be7595ec406fe",
     "username": "sadai",
