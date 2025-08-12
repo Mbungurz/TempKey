@@ -1,6 +1,13 @@
 [                
                         
-                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                         
+{
+    "id": "b7ab2b9b873c575e",
+    "username": "une",
+    "password": "une",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                           
 {
     "id": "811de0e2c9a84481",
     "username": "timbul",
