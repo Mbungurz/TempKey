@@ -1,6 +1,13 @@
 [                
                         
-                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                         
+{
+    "id": "0511c422eebe9ba6",
+    "username": "gala2",
+    "password": "gala2",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                                                                                                                    
 {
     "id": "2c4860dc649f682f",
     "username": "udin",
