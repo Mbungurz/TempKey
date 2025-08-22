@@ -1,5 +1,12 @@
 [                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+{
+    "id": "f41aa4ccd4cde32f",
+    "username": "ayu",
+    "password": "ayu",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 {
     "id": "1eeccaf20af4f90a",
     "username": "aji",
