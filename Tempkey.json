@@ -1,5 +1,12 @@
 [                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+{
+    "id": "f3c5d06134ecb787",
+    "username": "pukat",
+    "password": "pukat",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 {
     "id": "f41aa4ccd4cde32f",
     "username": "ayu",
