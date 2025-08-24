@@ -1,5 +1,12 @@
 [                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+{
+    "id": "c5ef006e34abb66e",
+    "username": "sabuk",
+    "password": "sabuk",
+    "expiresAt": "2047-12-31",
+    "allowOffline": true
+  },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 {
     "id": "f3c5d06134ecb787",
     "username": "pukat",
